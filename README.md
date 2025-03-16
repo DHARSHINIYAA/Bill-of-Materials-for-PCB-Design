@@ -1,4 +1,7 @@
 # Bill-of-Materials-for-PCB-Design
+Name: DHARSHINIYAA KS
+Reg no: 212223100004
+
 # Aim
 
 To prepare the Bill of Material for the given circuit.
@@ -59,11 +62,13 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+![WhatsApp Image 2025-03-16 at 21 07 36_ab78f481](https://github.com/user-attachments/assets/ea8b25a3-3ba3-44ea-a326-bad93a388d7c)
 
 
 
 # Output
 
+![WhatsApp Image 2025-03-16 at 21 07 53_9beaf5c6](https://github.com/user-attachments/assets/f50fc821-c7cf-4a57-81a3-5cb5cea8f60e)
 
 
 
